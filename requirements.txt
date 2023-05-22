@@ -1,0 +1,6 @@
+pyautogui==0.9.53
+pydub==0.25.1
+pyttsx3==2.90
+selenium==4.9.1
+Send2Trash==1.8.0
+simpleaudio==1.0.4
